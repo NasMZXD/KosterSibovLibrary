@@ -1,0 +1,4 @@
+Exception: System.IO.DirectoryNotFoundException: There are currently no receipts available for display
+   at KosterSibovLibrary.DataBase.DoesReceiptsDirExist() in D:\KosterSibovLibrary\KosterSibovLibrary\DataBase.cs:line 176
+   at KosterSibovLibraryWPF.UserControlElements.Manager.Button_Click(Object sender, RoutedEventArgs e) in D:\KosterSibovLibrary\KosterSibovLibraryWPF\UserControlElements\Manager.xaml.cs:line 125 
+Date: 11/29/2024 12:17:14 PM

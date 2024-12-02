@@ -1,0 +1,4 @@
+Exception: System.FormatException: The Quantity must be a whole positive number and no more than 500!
+   at KosterSibovLibrary.AbstractItem.IsQuantityInt(String quantity) in D:\KosterSibovLibrary\KosterSibovLibrary\AbstractItem.cs:line 46
+   at KosterSibovLibraryWPF.UserControlElements.AddJournal.btnEnter_Click(Object sender, RoutedEventArgs e) in D:\KosterSibovLibrary\KosterSibovLibraryWPF\UserControlElements\AddJournal.xaml.cs:line 45 
+Date: 11/29/2024 12:12:37 PM

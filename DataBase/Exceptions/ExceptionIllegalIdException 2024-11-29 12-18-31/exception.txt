@@ -1,0 +1,4 @@
+Exception: KosterSibovLibrary.IllegalIdException: ID must be exaclty 9 digits!
+   at KosterSibovLibrary.Customer.IsIdValid(String customerId) in D:\KosterSibovLibrary\KosterSibovLibrary\Customer.cs:line 45
+   at KosterSibovLibraryWPF.UserControlElements.AddCustomer.btnInput_Click(Object sender, RoutedEventArgs e) in D:\KosterSibovLibrary\KosterSibovLibraryWPF\UserControlElements\AddCustomer.xaml.cs:line 47 
+Date: 11/29/2024 12:18:31 PM

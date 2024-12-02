@@ -1,0 +1,4 @@
+Exception: System.IO.DirectoryNotFoundException: Customers directory could not be found!
+   at KosterSibovLibrary.Customer.SaveCustomer(String customerId) in D:\KosterSibovLibrary\KosterSibovLibrary\Customer.cs:line 52
+   at KosterSibovLibraryWPF.UserControlElements.AddCustomer.BtnPayEnter_ButtonClickEvent(Object sender, RoutedEventArgs e) in D:\KosterSibovLibrary\KosterSibovLibraryWPF\UserControlElements\AddCustomer.xaml.cs:line 86 
+Date: 11/29/2024 12:39:54 PM

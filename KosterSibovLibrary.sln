@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosterSibovLibrary", "KosterSibovLibrary\KosterSibovLibrary.csproj", "{A60D61B5-990C-41A1-9AC2-D0C98222163E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosterSibovLibraryWPF", "KosterSibovLibraryWPF\KosterSibovLibraryWPF.csproj", "{36F5B67E-8E5D-486F-92AB-0C4EC7A3EECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60D61B5-990C-41A1-9AC2-D0C98222163E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60D61B5-990C-41A1-9AC2-D0C98222163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60D61B5-990C-41A1-9AC2-D0C98222163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60D61B5-990C-41A1-9AC2-D0C98222163E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F5B67E-8E5D-486F-92AB-0C4EC7A3EECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F5B67E-8E5D-486F-92AB-0C4EC7A3EECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F5B67E-8E5D-486F-92AB-0C4EC7A3EECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F5B67E-8E5D-486F-92AB-0C4EC7A3EECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF184D10-243E-4A92-8A41-844075AAE1B8}
+	EndGlobalSection
+EndGlobal
